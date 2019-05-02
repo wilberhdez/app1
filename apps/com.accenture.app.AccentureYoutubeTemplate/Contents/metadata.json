@@ -1,0 +1,17 @@
+{
+	"identifier": "com.accenture.app.AccentureYoutubeTemplate",
+	"name": "Accenture Video App",
+	"version": "0.0.1",
+	"author": "Accenture",
+	"company": "Accenture",
+	"copyright": "Accenture",
+	"description": "Accenture Youtube video App.",
+	"keywords": "youtube",
+	"categories": [ "accenture" ],
+	"scripts": "Javascript/init.js",
+	"images": {
+		"icon": {
+			"192x192": "Images/Icon1.png"
+		}
+	}
+}

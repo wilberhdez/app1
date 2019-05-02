@@ -1,0 +1,17 @@
+{
+	"identifier": "com.metrological.app.Rooms",
+	"name": "Room Example",
+	"version": "0.0.13",
+	"author": "Metrological",
+	"company": "Metrological",
+	"copyright": "Metrological",
+	"description": "An example to communicate realtime between devices using Room and QRCode in an App.",
+	"categories": [ "video" ],
+	"scripts": "Javascript/init.js",
+	"images": {
+		"about": "Images/Icon.png",
+		"icon": {
+			"192x192": "Images/Icon.png"
+		}
+	}
+}

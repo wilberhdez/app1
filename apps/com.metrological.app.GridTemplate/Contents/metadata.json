@@ -1,0 +1,17 @@
+{
+	"identifier": "com.metrological.app.GridTemplate",
+	"name": "Grid Template",
+	"version": "0.0.5",
+	"author": "Metrological",
+	"company": "Metrological",
+	"copyright": "Metrological",
+	"description": "An easy template to get a grid in an app.",
+	"categories": [ "video" ],
+	"scripts": "Javascript/init.js",
+	"images": {
+		"about": "Images/Icon.png",
+		"icon": {
+			"192x192": "Images/Icon.png"
+		}
+	}
+}
