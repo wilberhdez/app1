@@ -8,6 +8,7 @@
     "express": "^4.16.4",
     "jshint": "^2.10.2",
     "morgan": "^1.9.1",
+    "node-gyp": "^4.0.0",
     "querystring": "^0.2.0",
     "xml2json": "^0.6.2"
   }
